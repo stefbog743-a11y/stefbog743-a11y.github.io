@@ -1,0 +1,27 @@
+/* هذا الكود لتجميل شكل الموقع */
+body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+header {
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #24292e;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #586069;
+}
